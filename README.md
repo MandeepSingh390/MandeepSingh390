@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mandeep Singh
 - 👀 I’m interested in Cyber Security, Web3, Web Development
 - 🕶  My Hobbies are :- Anime 🍜🍥, Travelling, Listening To music
-- 🌱 I’m currently learning Javascript Full Stack Development
+- 🌱 I’m currently learning Javascript Full Stack Development with #100DEVS
 - 💞️ I’m looking to collaborate on basic Web Develpoment Stuff
 - 📫 How to reach me twitter :- <a href="https://twitter.com/Mandeep42singh">@Mandeep42singh</a>
 
