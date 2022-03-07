@@ -6,8 +6,8 @@
 - 📫 How to reach me twitter :- <a href="https://twitter.com/Mandeep42singh">@Mandeep42singh</a>
 
 <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=MandeepSingh390&show_icons=true&theme=radical" style="max-width: 100%;"/>
-  <img width=45% src=https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepSingh390&layout=compact&theme=radical style="max-width: 100%;" />
+  <img width=40% src="https://github-readme-stats.vercel.app/api?username=MandeepSingh390&show_icons=true&theme=radical" style="max-width: 100%;"/>
+  <img width=40% src=https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepSingh390&layout=compact&theme=radical style="max-width: 100%;" />
 </p>
 
 <!---
