@@ -7,7 +7,7 @@
 
 <p>
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=MandeepSingh390&show_icons=true&theme=radical" style="max-width: 100%;"/>
-  <img  src=https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepSingh390&layout=compact&theme=radical style="max-width: 100%;" />
+  <img width=48% src=https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepSingh390&layout=compact&theme=radical style="max-width: 100%;" />
 </p>
 
 <!---
